@@ -1,4 +1,4 @@
-
+#autor: Orlando Ramos Machuca
 
 def determinarAprobado(promedio):
     
