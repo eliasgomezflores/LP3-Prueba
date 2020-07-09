@@ -10,3 +10,8 @@ def determinarAprobado(promedio):
     
     else:
         print("La entrada es incorrecta.")
+        
+        
+promedio = int(input("Ingrese el promedio: "))
+
+determinarAprobado(promedio)
